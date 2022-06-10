@@ -8,4 +8,4 @@
 
 ## 需要的插件
 
-topaz denoise 3.5.2
+topaz denoise 3.6.2
